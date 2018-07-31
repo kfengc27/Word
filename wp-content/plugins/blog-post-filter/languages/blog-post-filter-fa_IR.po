@@ -1,0 +1,46 @@
+# Blog Post Filter.
+# Copyright (C) 2015 Ammar Shahraki Ebrahimi
+# This file is distributed under the same license as the Blog Post Filter package.
+# Ammar Shahraki Ebrahimi <ammar.shahraki@gmail.com>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: blog-post-filter\n"
+"POT-Creation-Date: 2015-08-10 15:20+0430\n"
+"PO-Revision-Date: 2015-08-10 15:27+0430\n"
+"Last-Translator: Ammar Shahraki Ebrahimi\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa_IR\n"
+
+## ............................................................................
+
+#@ blog-post-filter
+msgid "Blog Post Filter"
+msgstr "غربالگری نوشته های بلاگ"
+
+#@ blog-post-filter
+msgid "Blog Post Filter filters frontpage posts by their categories."
+msgstr "نوشته های صفحه نخست را بر اساس دسته آنها غربال می کند."
+
+#@ blog-post-filter
+msgid "ammar.shahraki"
+msgstr "عمار شهرکی ابراهیمی"
+
+#: adminPage.php:8
+msgid "post filtering"
+msgstr "غربالگری نوشته ها"
+
+#: adminPage.php: 35
+msgid "Please select the categories that you would like show their posts on the front page"
+msgstr "دسته هایی که می خواهید نوشته های آنها در صفحه نخست نمایش داده شود را انتخاب کنید"
+
+#: adminPage.php: 36
+msgid "Only posts that are at least in one of selected categories will be shown on the front page"
+msgstr "فقط نوشته هایی که دستکم در یکی از دسته های انتخاب شده باشند در صفحه نخست نمایش داده خواهند شد"

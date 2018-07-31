@@ -1,0 +1,19 @@
+
+.embla-radio-buttons label{
+  margin:10px 0 10px 0;
+  display:inline-block;
+  width:4em;
+}
+
+#customize-control-embla_header_icon .icon{
+	height: 1.5em;
+	width: 1.5em;
+	fill: #000;
+}
+
+/* Add simple dividers between options. */
+#customize-control-embla_section1,
+#customize-control-embla_header_icon{
+	border-top:1px solid #ddd;
+	padding-top:12px;
+}
